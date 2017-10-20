@@ -3,10 +3,15 @@
 	height: 200px;
 	background: #ee3e64;
 }
-#box_2 {
-	position: absolute;
-	left: 100px;
+#box_a{
 	width: 200px;
 	height: 200px;
-	background: #44accf;
+	background: yellow;
+}
+#box_2 {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+  top:95%;
+  background: #44accf;
 }
