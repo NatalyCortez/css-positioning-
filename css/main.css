@@ -1,0 +1,10 @@
+h1{
+  outline: green;
+  background: #aed886;
+  text-align: center;
+}
+h2 {
+  outline: yellow;
+  background: orange;
+  text-align: left;
+}
