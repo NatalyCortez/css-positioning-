@@ -11,4 +11,11 @@ Este proyecto consiste en replicar todos los ejemplos de layouts del siguiente [
 
 ## VISTA PREVIA
 
-![]()
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista2.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista3.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista4.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista5.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista6.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista7.JPG)
+![]()https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista8.JPG
