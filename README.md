@@ -18,4 +18,4 @@ Este proyecto consiste en replicar todos los ejemplos de layouts del siguiente [
 ![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista5.JPG)
 ![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista6.JPG)
 ![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista7.JPG)
-![]()https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista8.JPG
+![](https://raw.githubusercontent.com/NatalyCortez/css-positioning-/master/assets/img/vista8.JPG)
